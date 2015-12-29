@@ -1,2 +1,1 @@
-# sdvf.github.io
-Personal website.
+Simple personal website.
